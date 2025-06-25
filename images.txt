@@ -10,3 +10,4 @@ reader
 prowlarr
 radarr
 xiaoya_alist
+LibreTV
